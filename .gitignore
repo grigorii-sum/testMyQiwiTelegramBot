@@ -1,3 +1,6 @@
+.idea/
+__pycache__/
+
 config.ini
 debug_info.log
 warning_error_critical.log
